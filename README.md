@@ -1,4 +1,4 @@
-# Power-BI-Ola-Data-Analytics-Project
+# Ola-Data-Analytics-Project
 This analysis would be performed by following a typical data workflow in Power BI Desktop.
 
 ### 1. Data Connection and Transformation
