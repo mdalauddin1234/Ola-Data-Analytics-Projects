@@ -140,7 +140,7 @@ After cleaning the data, I enter the Data Model view to create custom measures u
 ### 3. Report and Dashboard Creation
 Finally, I create an interactive report with visualizations for each of these points.
 
-##########Questions of this prpjects needs to find out is:
+Questions (KPIs):
 1. Ride Volume Over Time
 2. Booking Status Breakdown
 3. Top 5 Vehicle Types by Ride Distance
